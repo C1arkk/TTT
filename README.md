@@ -8,5 +8,24 @@
 • License & Credits: A quick mention of the license (e.g., MIT, Apache 2.0) and acknowledgments for major contributors or libraries used.
 • Contact/Support Information: Where users can ask questions or get help (e.g., link to GitHub Issues, Discord, or an email address)
 
-# Tic Tac Toe
+# Tic Tac
+A lightweight, terminal-based implementation of the classic Tic Tac Toe game written in modern C++. Two players take turns placing their respective markers (X and O) on a 3x3 grid, competing to get three of their letters in a row horizontally, vertically, or diagonally.
+
+## Prerequisites & Requirements
+To compile and run this project, you will need:
+```bash
+A modern C++ compiler supporting C++11 or higher (e.g., g++, clang++, or MSVC).
+A terminal or command-line interface.
+```
+## Installation & Setup Guide
+Clone repository
+```bash
+git clone https://github.com/your-username/tic-tac-toe.git
+cd tic-tac-toe
+```
+
+
+
+
+
 
